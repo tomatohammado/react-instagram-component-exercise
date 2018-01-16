@@ -4,7 +4,7 @@ class InstagramPostCard extends Component {
   render () {
     return (
       <section>
-        <h1><em>Ground control to Major Tom</em></h1>
+        <h1>{this.props.postContent.author}</h1>
       </section>
     )
   }
