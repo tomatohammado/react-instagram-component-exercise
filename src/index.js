@@ -7,7 +7,9 @@ import registerServiceWorker from './registerServiceWorker';
 
 let postContent = {
   author: 'tomatohammado',
-  imageURL: './assets/images/1688273_218569981679809_2116004644_n.jpg',
+  // imageURL: './assets/images/1688273_218569981679809_2116004644_n.jpg',
+  imageURL: 'https://i.imgur.com/GmNQvZQ.jpg',
+  caption: 'Nice bow tie little guy 🎀',
   comments: [
     'What a cuuuuuute puppy',
     '🐶 😍'
